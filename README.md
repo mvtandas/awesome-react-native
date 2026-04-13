@@ -104,7 +104,7 @@ _Teller is an OSS and FREE productivity secret manager for developers made by [S
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
+list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
 
 ## Conferences
 
@@ -116,21 +116,21 @@ site](https://facebook.github.io/react/docs/conferences.html).
 
 <http://chainreactconf.com>
 
-Workshops - July 11th, 2018\\
+Workshops - July 11th, 2018\
 Conference - July 12-13th, 2018
 
 ### React Native EU - Wroclaw, Poland
 
 <http://react-native.eu/>
 
-Workshops - September 3-4th, 2018\\
+Workshops - September 3-4th, 2018\
 Conference - September 5-6th, 2018
 
 ### React Alicante - Alicante, Spain
 
 <http://reactalicante.es/>
 
-Workshops - September 13th, 2018\\
+Workshops - September 13th, 2018\
 Conference - September 14-15th, 2018
 
 ### ReactNext - Tel Aviv, Israel
@@ -1352,6 +1352,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+* [TimeCapsule](https://github.com/mvtandas/timecapsule) - Digital time capsule app with location-based unlocking. Create capsules with photos/messages and unlock them at specific places. Built with Expo and Supabase.
 * [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 * [f8app ★13070](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [30-days-of-react-native ★5192](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
